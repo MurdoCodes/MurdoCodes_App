@@ -33,7 +33,11 @@ Built out of
 	- List available jobs from onlinejobs.ph
 
 ## Installation
-
+> Addition Package Installed
+	- expo-font
+	- axios
+	- react-native-dotenv
+	
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
